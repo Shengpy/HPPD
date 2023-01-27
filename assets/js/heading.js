@@ -1,4 +1,4 @@
-const countDownDate = new Date("January 26, 2023 11:13:30").getTime();
+const countDownDate = new Date("January 29, 2023 0:0:0").getTime();
 
 // Update the count down every 1 second
 const countDate = setInterval(function () {
