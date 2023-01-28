@@ -599,7 +599,7 @@ body {
 }
 
 .age::after {
-  content: "18";
+  content: "20";
   position: absolute;
   top: 7vh;
   left: -1.3vw;
